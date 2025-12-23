@@ -76,3 +76,13 @@ The goal of this project is to understand **sales performance, customer behavior
 - Retain top customers through loyalty programs
 - Expand inventory in top-selling categories
 - Analyze low-performing regions for growth opportunities
+
+ ## This project focuses on analyzing sales performance and customer behavior using the available dataset. The following key questions were explored:
+1.How can sales and orders be compared effectively using a single visualization?
+2.Which month recorded the highest sales and the highest number of orders?
+3.Who purchased more in 2022 — men or women?
+4.What were the different order statuses observed in 2022?
+5.Which are the top 10 states contributing the most to overall sales?
+6.What is the relationship between age group and gender based on the number of orders?
+7.Which sales channel contributed the maximum revenue?
+8.Which product category recorded the highest sales?
