@@ -8,16 +8,16 @@ The goal of this project is to understand **sales performance, customer behavior
 ---
 
 ## Objectives
-- Analyze overall sales and revenue trends
-- Identify top-performing product categories and customers
-- Track key performance indicators (KPIs)
-- Understand regional sales distribution
-- Create an interactive and visually appealing Excel dashboard
+- Analyze overall sales and revenue trends.
+- Identify top-performing product categories and customers.
+- Track key performance indicators (KPIs).
+- Understand regional sales distribution.
+- Create an interactive and visually appealing Excel dashboard.
 
 ---
 
 ## Dataset Description
-- The dataset contains historical sales data for Urban Vogue
+- The dataset contains historical sales data for Urban Vogue.
 - Includes information such as:
   - Order details
   - Product categories
